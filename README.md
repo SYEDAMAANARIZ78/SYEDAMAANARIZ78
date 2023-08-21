@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Syed Amaan Ariz</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate fullstack developer and a Cyber Security Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedamaanariz78&label=Profile%20views&color=0e75b6&style=flat" alt="syedamaanariz78" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedamaanariz78" alt="syedamaanariz78" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Web Development, Cyber Security**
 
-- 🌱 I’m currently learning **Flask, React**
+- 🌱 I’m currently learning **Flask, React, Kotlin**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
 - 🤝 I’m looking for help with **Django**
 
-- 💬 Ask me about **DSA, HTML, CSS, Python, Offensive Security**
+- 💬 Ask me about **DSA, HTML, CSS, Python, Offensive Security, React**
 
 - 📫 How to reach me **syedamaanariz@gmail.com**
 
